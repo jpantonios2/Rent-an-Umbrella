@@ -14,4 +14,8 @@ An umbrella rental website.
 * The administrator is able to click a button which will send an email to a client who has an overdue umbrella. This is done through PHPMailer.
 
 # Pictures
-
+![GitHub Logo](imgs/rent.PNG)
+![GitHub Logo](imgs/return.PNG)
+![GitHub Logo](imgs/login.PNG)
+![GitHub Logo](imgs/rentLogs.PNG)
+![GitHub Logo](imgs/logs.PNG)
